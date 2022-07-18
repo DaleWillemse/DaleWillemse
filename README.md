@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning machine learning with Python.
 - 📫 DaleWillemse000@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Dale's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaleWillemse&theme=gruvbox&show_icons=true)
