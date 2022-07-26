@@ -1,4 +1,4 @@
-<p font-size="larger">hello</p>
+<p font-size="200%">hello</p>
 
 my name is Dale Willemse.
 
