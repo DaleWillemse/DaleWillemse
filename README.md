@@ -1,7 +1,6 @@
-### Hi there 👋
+#hello
 
-- 🔭 I’m currently working on improving.
-- 🌱 I’m currently learning machine learning with Python.
-- 📫 DaleWillemse000@gmail.com
+my name is Dale Willemse.
 
-![My stats](https://github-readme-stats.vercel.app/api?username=DaleWillemse&theme=apprentice&show_icons=false)
+
+<img src="https://github-readme-stats.vercel.app/api?username=DaleWillemse&theme=apprentice&show_icons=false">
