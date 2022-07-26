@@ -1,6 +1,6 @@
 <h1>hello</h1>
 
-my name is Dale Willemse.
+my name is Dale Willemse.\n
 Welcome to my github profile.
 
 <div align="center">
