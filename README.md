@@ -7,5 +7,5 @@ Welcome to my Github profile.
   <img src="https://github-readme-stats.vercel.app/api?username=DaleWillemse&theme=apprentice&show_icons=false">
 </div>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaleWillemse&theme=dark&layout=compact&hide=eagle">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaleWillemse&theme=apprentice&layout=compact&hide=eagle">  
 </div>
